@@ -1,0 +1,5 @@
+{
+  "OPTION_GAZE.description": "Gaze into the flames.{ExtraText}",
+  "OPTION_GAZE.extraText": "Gain [blue]{Strength}[/blue] [gold]Strength[/gold]{WisdomEyes}. (Currently [blue]{Gazed}[/blue])",
+  "OPTION_GAZE.name": "Gaze"
+}

@@ -1,0 +1,10 @@
+{
+  "DEVOUT-UNSHEATHED.title": "Unsheathed",
+  "DEVOUT-UNSHEATHED.description": "[gold]Ethereal[/gold].\nWhen played with a 0[img]res://Devout/images/charui/text_energy.png[/img] cost, it [gold]Exhausts[/gold]. Otherwise, it returns to the [gold]Hand[/gold].",
+  "DEVOUT-ENTHRALLING.title": "Enthralling",
+  "DEVOUT-ENTHRALLING.description": "If this is in your [gold]Hand[/gold], it must be played before other cards.",
+  "DEVOUT-TEMPORARY.title": "Temporary",
+  "DEVOUT-TEMPORARY.description": "At the end of the turn, this Power is removed and the card is sent into the discard pile.",
+  "DEVOUT-RHYTHMIC.title": "Rhythmic",
+  "DEVOUT-RHYTHMIC.description": "This card's effectiveness scales by [blue]1[/blue] for every [blue]5[/blue] [gold]Dexterity[/gold] you have."
+}

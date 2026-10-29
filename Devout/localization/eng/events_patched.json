@@ -1,0 +1,6 @@
+{
+  "SUNKEN_STATUE.pages.INITIAL.options.GIVE_PRAYERS.description": "Gain [blue]{Card}[/blue] card reward{Cards:plural:|s}. Heal [green]{Heal}[/green] HP.",
+  "SUNKEN_STATUE.pages.INITIAL.options.GIVE_PRAYERS.title": "Give Prayers",
+  "SUNKEN_STATUE.pages.INITIAL.options.GRAB_QUEEN_SWORD.description": "Obtain the [gold]{RelicDevout}[/gold]. Lose [red]{HpLoss}[/red] HP.",
+  "SUNKEN_STATUE.pages.INITIAL.options.GRAB_QUEEN_SWORD.title": "Grab the Sword"
+}

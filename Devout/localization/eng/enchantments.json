@@ -1,0 +1,72 @@
+{
+  "DEVOUT-SOULFLAME.title": "Soulflame",
+  "DEVOUT-SOULFLAME.description": "This card gains [gold]Ethereal[/gold].\nReduce its cost by [blue]{Energy:diff()}[/blue], but lose [blue]{HpLoss:diff()}[/blue] HP when it is played.",
+  "DEVOUT-SOULFLAME.dialogue": "",
+
+  "DEVOUT-SNUFFED.title": "Snuffed",
+  "DEVOUT-SNUFFED.description": "This card is [gold]Ethereal[/gold] and [gold]Unplayable[/gold].",
+  "DEVOUT-SNUFFED.dialogue": "",
+
+  "DEVOUT-HEAVY.title": "Heavy",
+  "DEVOUT-HEAVY.description": "[gold]Strength[/gold] affects this card [blue]{Amount}×[/blue].",
+  "DEVOUT-HEAVY.dialogue": "",
+  
+  "FOCUS.dialogue": "Dur...",
+  
+  "DEVOUT-GREATSLASH_ENCHANT.title": "Greatslash",
+  "DEVOUT-GREATSLASH_ENCHANT.description": "Deal [blue]{ExtraDamage:diff()}[/blue] extra damage.\n{Angur}'s [gold]Heavy[/gold] value is increased by [blue]1[/blue].",
+  "DEVOUT-GREATSLASH_ENCHANT.dialogue": "Kattha'ashyara!",
+
+  "DEVOUT-DOWNSLAM_ENCHANT.title": "Downslam",
+  "DEVOUT-DOWNSLAM_ENCHANT.description": "Deal [blue]{ExtraDamage:diff()}[/blue] extra damage.\n\nIf the enemy is [gold]Airbourne[/gold], [gold]Fluttering[/gold], or [gold]Soaring[/gold], it is slammed into the ground, taking [blue]{ExtraDamage:diff()}[/blue] damage and being [gold]Stunned[/gold].\n\nApply [gold]Ringing[/gold] to yourself.",
+  "DEVOUT-DOWNSLAM_ENCHANT.dialogue": "Kattha'lamora!",
+
+  "DEVOUT-UPSLASH_ENCHANT.title": "Upslash",
+  "DEVOUT-UPSLASH_ENCHANT.description": "Deal [blue]{ExtraDamage:diff()}[/blue] extra damage.\nKnock the target [gold]Airbourne[/gold] [blue]{AirbournePower:diff()}[/blue].",
+  "DEVOUT-UPSLASH_ENCHANT.dialogue": "Kattha'tayara!",
+
+  "DEVOUT-DUAL_SLASH_ENCHANT.title": "Dualslash",
+  "DEVOUT-DUAL_SLASH_ENCHANT.description": "{Angur} strikes twice.",
+  "DEVOUT-DUAL_SLASH_ENCHANT.dialogue": "Shen!",
+  "DEVOUT-DUAL_SLASH_ENCHANT.dialogue.next": "Kali!",
+
+  "DEVOUT-SWIFT_SLASH_ENCHANT.title": "Swiftslash",
+  "DEVOUT-SWIFT_SLASH_ENCHANT.description": "Draw [blue]{Cards:diff()}[/blue] card{Cards:plural:|s}.\nGain {Energy:energyIcons()}.",
+  "DEVOUT-SWIFT_SLASH_ENCHANT.dialogue": "",
+
+  "DEVOUT-SACRED_SMITE_ENCHANT.title": "Sacred Smite",
+  "DEVOUT-SACRED_SMITE_ENCHANT.description": "Deal [blue]{ExtraDamage:diff()}[/blue] extra damage, plus [blue]{Extra:diff()}[/blue] additional damage for each {PietyIcon} you have.",
+  "DEVOUT-SACRED_SMITE_ENCHANT.dialogue": "Kattha'pandora!",
+
+  "DEVOUT-SHADOWED_SMITE_ENCHANT.title": "Shadowed Smite",
+  "DEVOUT-SHADOWED_SMITE_ENCHANT.description": "Deal [blue]{ExtraDamage:diff()}[/blue] extra damage, plus [blue]{Extra:diff()}[/blue] additional damage for each {PenanceIcon} you have.",
+  "DEVOUT-SHADOWED_SMITE_ENCHANT.dialogue": "Kattha'myrath!",
+
+  "DEVOUT-SEARING_SMITE_ENCHANT.title": "Searing Smite",
+  "DEVOUT-SEARING_SMITE_ENCHANT.description": "Deal [blue]{ExtraDamage:diff()}[/blue] extra damage if you have a [purple]Soulflame[/purple] in your [gold]Hand[/gold].\n\n{Angur}'s [gold]Heavy[/gold] value is increased by the level of this enchantment ([blue]{Level}[/blue]).\n\nThis enchantment may be improved any number of times through [gold]Upgrading[/gold] its card.",
+  "DEVOUT-SEARING_SMITE_ENCHANT.dialogue": "Kattha'shyrana!",
+  
+  "DEVOUT-PARRYING_STRIKE_ENCHANT.title": "Parrying Strike",
+  "DEVOUT-PARRYING_STRIKE_ENCHANT.description": "Gain [blue]{Block:diff()}[/blue] [gold]Block[/gold].\nGain [blue]{ThornsPower:diff()}[/blue] [gold]Thorns[/gold] until the start of your next turn.",
+  "DEVOUT-PARRYING_STRIKE_ENCHANT.dialogue": "Kattha'sidra'al!",
+
+  "DEVOUT-QUAKESHOCK_ENCHANT.title": "Quakeshock",
+  "DEVOUT-QUAKESHOCK_ENCHANT.description": "Deal [blue]{ShockDamage:diff()}[/blue] damage and [blue]{WeakPower:diff()}[/blue] [gold]Weak[/gold] and [gold]Vulnerable[/gold] to ALL enemies.\n\nApply [gold]Ringing[/gold] to yourself.",
+  "DEVOUT-QUAKESHOCK_ENCHANT.dialogue": "Kattha'lamora-yesh!",
+
+  "DEVOUT-CLEAVING_FLAMES_ENCHANT.title": "Cleaving Flames",
+  "DEVOUT-CLEAVING_FLAMES_ENCHANT.description": "[gold]Exhaust[/gold] EVERY [gold]Burn[/gold] and [purple]Soulflame[/purple] in your [gold]Draw[/gold] and [gold]Discard Piles[/gold].\n\nDeal their damage to ALL enemies, plus [blue]1[/blue] additional damage for every [blue]5[/blue] [gold]Strength[/gold].\n\nIf in [gold]Cliodna[/gold], increase its [gold]Strength[/gold] by [blue]{StrengthPower:diff()}[/blue] before the attack.",
+  "DEVOUT-CLEAVING_FLAMES_ENCHANT.dialogue": "Angur'kattha!\nKatthaya a shyrana lashin paelash!",
+
+  "DEVOUT-TIDAL_SLASH_ENCHANT.title": "Tidal Slash",
+  "DEVOUT-TIDAL_SLASH_ENCHANT.description": "Reduce [gold]Strength[/gold] by [blue]{CharmedPower:diff()}[/blue].\n\nALL enemies take [blue]{Tide:diff()}[/blue] damage for every [gold]Charmed[/gold] applied this turn.\n\nIf in [gold]Caoineag[/gold], hits [blue]four[/blue] times. Otherwise, hits [blue]twice[/blue].",
+  "DEVOUT-TIDAL_SLASH_ENCHANT.dialogue": "Angur'kattha!\nNeradaya lath lashka sin drakai marah!",
+
+  "DEVOUT-END_OF_THE_DANCE_ENCHANT.title": "End of the Dance",
+  "DEVOUT-END_OF_THE_DANCE_ENCHANT.description": "Deal [blue]{ExtraDamage:diff()}[/blue] extra damage.\nHits ALL enemies.\n{Angur} becomes [gold]Rhythmic[/gold] and [gold]Sheathes[/gold] after use.",
+  "DEVOUT-END_OF_THE_DANCE_ENCHANT.dialogue": "Dael-yesh.",
+
+  "DEVOUT-EQUINOX_ENCHANT.title": "Equinox",
+  "DEVOUT-EQUINOX_ENCHANT.description": "Deal [blue]{ExtraDamage:diff()}[/blue] extra damage.\nHits ALL enemies.\n{Angur}'s [gold]Heavy[/gold] value is multiplied once more for each ally that is still alive.",
+  "DEVOUT-EQUINOX_ENCHANT.dialogue": "Angur'kattha!"
+}

@@ -1,0 +1,21 @@
+{
+  "PIETY_COUNT.title": "Piety",
+  "PIETY_COUNT.description": "Your current Piety ({PietyIcon}) count. The Devout gains {PietyIcon} when she gains HP on her turn. The Devout's cards may require {PietyIcon} to play.",
+  "PENANCE_COUNT.title": "Penance",
+  "PENANCE_COUNT.description": "Your current Penance ({PenanceIcon}) count. The Devout gains {PenanceIcon} when she loses HP on her turn. The Devout's cards may require {PenanceIcon} to play.",
+  "DEVOUT-UNSHEATHE.title": "Unsheathed",
+  "DEVOUT-UNSHEATHE.description": "Angur must be drawn from the Ophanic Wheel to be wielded.\n\nAngur has [gold]Ethereal[/gold].\nWhen it is played with a 0{singleEnergyIcon} cost, it [gold]Exhausts[/gold]. Otherwise, it returns to the [gold]Hand[/gold].",
+  "DEVOUT-FLIP.title": "Flip",
+  "DEVOUT-FLIP.smartDescription": "When played, this card is returned to the [gold]Hand[/gold] and [gold]Transformed[/gold] to its other side, [blue]{Card}[/blue].",
+  "DEVOUT-FLIP.description": "When played, this card is returned to the [gold]Hand[/gold] and [gold]Transformed[/gold] to its other side, [blue]{Card}[/blue].",
+  "DEVOUT-PERFORMANCE.title": "Performance",
+  "DEVOUT-PERFORMANCE.description": "Angur may be wielded to [gold]Perform[/gold] a [purple]Technique[/purple].\n\nA [purple]Technique[/purple] is an enchantment placed upon Angur, which is removed upon play.\n\nThe [purple]Technique[/purple] card is [gold]Exhausted[/gold], and any modifiers granted to it by other enchantments are transferred to [gold]Angur[/gold].",
+  "DEVOUT-COUP_DE_GRACE.title": "Coup de Grâce",
+  "DEVOUT-COUP_DE_GRACE.description": "This card costs [blue]1[/blue] less {singleEnergyIcon} for each time Angur has been played this turn.",
+  "DEVOUT-HEAVY.title": "Heavy",
+  "DEVOUT-HEAVY.smartDescription": "[gold]Strength[/gold] affects this card [blue]{Heavy}×[/blue].",
+  "DEVOUT-HEAVY.description": "[gold]Strength[/gold] affects this card multiple times.",
+  "DEVOUT-LIGHT.title": "Light",
+  "DEVOUT-LIGHT.smartDescription": "[gold]Strength[/gold] doesn't affect this card.",
+  "DEVOUT-LIGHT.description": "[gold]Strength[/gold] doesn't affect this card."
+}

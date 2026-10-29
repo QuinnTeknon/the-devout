@@ -1,0 +1,72 @@
+[gd_scene load_steps=12 format=3 uid="uid://bvdlr3a6k56n1"]
+
+[ext_resource type="Script" uid="uid://p832neow4th4" path="res://Devout/scenes/vfx/crack_the_sky/NKinPriestBeamVfx.cs" id="1_i2r6n"]
+[ext_resource type="Texture2D" uid="uid://xb3lfw70xbo" path="res://Devout/scenes/vfx/crack_the_sky/soul_beam.png" id="2_k2u7o"]
+[ext_resource type="Texture2D" uid="uid://d4c7n3gyb2xdk" path="res://Devout/scenes/vfx/crack_the_sky/timeline_bg_star_vfx.png" id="3_m23wl"]
+
+[sub_resource type="CanvasItemMaterial" id="CanvasItemMaterial_ggy0c"]
+blend_mode = 1
+particles_animation = true
+particles_anim_h_frames = 2
+particles_anim_v_frames = 2
+particles_anim_loop = false
+
+[sub_resource type="Curve" id="Curve_jdyk3"]
+_data = [Vector2(0, 1), 0.0, 0.0, 0, 0, Vector2(1, 0.50615), -1.6054, 0.0, 0, 0]
+point_count = 2
+
+[sub_resource type="CurveTexture" id="CurveTexture_27fcs"]
+curve = SubResource("Curve_jdyk3")
+
+[sub_resource type="Curve" id="Curve_qatxe"]
+_limits = [0.0, 2.0, 0.0, 1.0]
+_data = [Vector2(0, 1.44501), 0.0, 0.133784, 0, 0, Vector2(1, 1.42619), 0.0, 0.0, 0, 0]
+point_count = 2
+
+[sub_resource type="Curve" id="Curve_0b4fn"]
+_limits = [0.0, 2.0, 0.0, 1.0]
+_data = [Vector2(0, 0.203328), 0.0, 12.5221, 0, 0, Vector2(0.105469, 0.523155), -0.283305, -0.283305, 0, 0, Vector2(0.443359, 0.335022), -0.390503, -0.390503, 0, 0, Vector2(1, 0.165702), -0.209401, 0.0, 0, 0]
+point_count = 4
+
+[sub_resource type="Curve" id="Curve_g8t4r"]
+_data = [Vector2(0, 1), 0.0, 0.0, 0, 0, Vector2(1, 1), 0.0, 0.0, 0, 0]
+point_count = 2
+
+[sub_resource type="CurveXYZTexture" id="CurveXYZTexture_pvx8h"]
+curve_x = SubResource("Curve_qatxe")
+curve_y = SubResource("Curve_0b4fn")
+curve_z = SubResource("Curve_g8t4r")
+
+[sub_resource type="ParticleProcessMaterial" id="ParticleProcessMaterial_61ka8"]
+particle_flag_disable_z = true
+emission_shape = 3
+emission_box_extents = Vector3(130, 1, 1)
+direction = Vector3(-1, 0, 0)
+spread = 0.0
+initial_velocity_min = 100.0
+initial_velocity_max = 100.0
+gravity = Vector3(0, 0, 0)
+scale_min = 0.8
+scale_max = 0.8
+scale_curve = SubResource("CurveXYZTexture_pvx8h")
+alpha_curve = SubResource("CurveTexture_27fcs")
+anim_offset_max = 1.0
+
+[node name="KinPriestBeamVfx" type="Node2D"]
+script = ExtResource("1_i2r6n")
+
+[node name="BeamHolder" type="Node2D" parent="."]
+
+[node name="Beam" type="Sprite2D" parent="BeamHolder"]
+scale = Vector2(0.76, 10)
+texture = ExtResource("2_k2u7o")
+offset = Vector2(-246.4, 0)
+
+[node name="StaticParticles" type="GPUParticles2D" parent="BeamHolder"]
+material = SubResource("CanvasItemMaterial_ggy0c")
+position = Vector2(-181, -1)
+scale = Vector2(1.3, 40)
+texture = ExtResource("3_m23wl")
+lifetime = 0.06
+fixed_fps = 0
+process_material = SubResource("ParticleProcessMaterial_61ka8")

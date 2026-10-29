@@ -1,0 +1,107 @@
+{
+  "DEVOUT-BLOOD_OF_THE_GODS.description": "At the start of combat, gain [green]{RegenPower}[/green] [gold]Regen[/gold], and gain [gold]Flagellant[/gold].",
+  "DEVOUT-BLOOD_OF_THE_GODS.flavor": "The blood that oozed from the Devout's first wound. A reminder of her penance.",
+  "DEVOUT-BLOOD_OF_THE_GODS.title": "Blood of the Gods",
+  
+  "DEVOUT-MILK_OF_LIFE.description": "At the start of combat, gain [green]{RegenPower}[/green] [gold]Regen[/gold], and gain [gold]Flagellant[/gold].",
+  "DEVOUT-MILK_OF_LIFE.flavor": "The milk that the Devout will never again nurse. A reminder of her regrets.",
+  "DEVOUT-MILK_OF_LIFE.title": "Milk of Life",
+  
+  "DEVOUT-EYE_OF_FIRE.description": "You can no longer [gold]Rest[/gold] at [gold]Rest Sites[/gold]. You can now gain [gold]Strength[/gold] at [gold]Rest Sites[/gold].",
+  "DEVOUT-EYE_OF_FIRE.flavor": "As the Devout stares into the flames, she draws upon her wells of strength.",
+  "DEVOUT-EYE_OF_FIRE.title": "Eye of Fire",
+  
+  "DEVOUT-WISDOM_EYE.description": "You can no longer [gold]Rest[/gold] at [gold]Rest Sites[/gold]. When you [gold]Gaze[/gold], you now also gain [gold]Dexterity[/gold].",
+  "DEVOUT-WISDOM_EYE.flavor": "As the Devout stares into the flames, she reflects upon her past.",
+  "DEVOUT-WISDOM_EYE.title": "Wisdom Eye",
+  
+  
+  
+  "DEVOUT-LOCK_OF_HAIR.description": "When [gold]Braidbound[/gold] causes a [gold]Stun[/gold], heal [blue]{Heal}[/blue] HP [blue]{Repeat}[/blue] times.",
+  "DEVOUT-LOCK_OF_HAIR.flavor": "A lock of the Devout's hair, sliced by the Architect in their primeval battle. Still glows with golden light, even eons later.",
+  "DEVOUT-LOCK_OF_HAIR.title": "Lock of Hair",
+  
+  
+  
+  "DEVOUT-SOUL_OF_LIGHT_AND_SHADOW.description": "Each time your [gold]Stance[/gold] [red]decays[/red], gain an equal amount of permanent [gold]Power[/gold].",
+  "DEVOUT-SOUL_OF_LIGHT_AND_SHADOW.flavor": "The Devout's soul shines amidst the darkness, flowing and filling the flesh of her body.",
+  "DEVOUT-SOUL_OF_LIGHT_AND_SHADOW.title": "Soul of Light and Shadow",
+
+  "DEVOUT-ARDENT_PSALMS.description": "For every [blue]{Piety}[/blue]{singlePietyIcon} gained, heal again for the same amount.",
+  "DEVOUT-ARDENT_PSALMS.flavor": "A stained-glass tablet unfurling many scenes from the parables and myths the Devout holds dear.",
+  "DEVOUT-ARDENT_PSALMS.title": "Ardent Psalms",
+  
+  
+  
+  "DEVOUT-SCYTHES_OF_PANDORA.description": "When you gain {singlePenanceIcon}, apply [blue]{CharmedPower}[/blue] [gold]Charm[/gold] to ALL enemies.",
+  "DEVOUT-SCYTHES_OF_PANDORA.flavor": "A silver rosary strung with sapphires and moonstones. The lower moon hangs in the air impossibly, as if suspended by invisible strings.",
+  "DEVOUT-SCYTHES_OF_PANDORA.title": "Scythes of Pandora",
+  
+  "DEVOUT-SWORD_OF_ELAIOS.description": "Whenever you play [gold]Angur[/gold], gain [blue]{StrengthPower}[/blue] [gold]Strength[/gold] this turn.",
+  "DEVOUT-SWORD_OF_ELAIOS.flavor": "A golden rosary strung with rubies and sunstones. Grasping the amulet, the Devout finds strength in her faith.",
+  "DEVOUT-SWORD_OF_ELAIOS.title": "Sword of Elaios",
+  
+  "DEVOUT-MYRRH_FLOWER.description": "[gold]Lifesteal[/gold] is [blue]{HealingIncrease}%[/blue] more effective.",
+  "DEVOUT-MYRRH_FLOWER.flavor": "A flowering bud preserved in myrrh. The sap whirls in spirals and vortices, coiling into helical patterns that seem intentionally designed.",
+  "DEVOUT-MYRRH_FLOWER.title": "Myrrh Rose",
+
+  
+    
+      
+      
+    
+  
+
+  "DEVOUT-SOULBOUND_HEART.description": "Apply [gold]Charmed[/gold] [blue]{CharmedPower:diff()}[/blue] to ALL enemies for each [purple]Soulflame[/purple] you let [gold]Exhaust[/gold] this turn.",
+  "DEVOUT-SOULBOUND_HEART.flavor": "The Devout's soul touches those around her, lulling their rage and dulling their wits.",
+  "DEVOUT-SOULBOUND_HEART.title": "Soulbound Heart",
+
+  "DEVOUT-ENDLESS_APPETITE.description": "Whenever you [gold]Exhaust[/gold] an [gold]Ethereal[/gold] card, gain [blue]{StrengthPower}[/blue] [gold]Strength[/gold].",
+  "DEVOUT-ENDLESS_APPETITE.flavor": "The Devout's hunger is voracious, despite her attempts to chain it.",
+  "DEVOUT-ENDLESS_APPETITE.title": "Endless Appetite",
+
+  "DEVOUT-BRIGHTBURN_THURIBLE.description": "At the start of each turn, lose [blue]{HpLoss}[/blue] HP, gain {singleEnergyIcon}, and draw [blue]{Cards}[/blue] card.",
+  "DEVOUT-BRIGHTBURN_THURIBLE.flavor": "The Devout's soul roils the sweet incense held within, boiling her fervent rage.",
+  "DEVOUT-BRIGHTBURN_THURIBLE.title": "Brightburn Thurible",
+  
+  
+  
+  "DEVOUT-MONOCHROME_RING.description": "At the start of combat, [gold]Summon[/gold] a shade of the [gold]Beloved[/gold]. While this shade exists, gain {singleEnergyIcon} every turn.",
+  "DEVOUT-MONOCHROME_RING.flavor": "A rose-crowned crystal ring, engraved with swirling runes of devotion between a couple due to be wed.",
+  "DEVOUT-MONOCHROME_RING.title": "Monochrome Ring",
+  
+  
+  
+  "DEVOUT-IRONCLAD_TRUTH.description": "Upon pickup, add [blue]1[/blue] [gold]Obliterate[/gold] to your Deck. Whenever you play this card, PERMANENTLY apply [blue]{HpLoss:diff()}[/blue] [gold]Doom[/gold] to yourself.",
+  "DEVOUT-IRONCLAD_TRUTH.flavor": "\"All things will die. But thou shalt not. Thou canst kill not that which lives not.\"",
+  "DEVOUT-IRONCLAD_TRUTH.title": "[red]Unspeakable Truth[/red]",
+
+  "DEVOUT-SILENT_TRUTH.description": "Upon pickup, add [blue]1[/blue] [gold]Ouroboros[/gold] to your Deck. Whenever you play this card, PERMANENTLY apply [blue]{HpLoss:diff()}[/blue] [gold]Doom[/gold] to yourself.",
+  "DEVOUT-SILENT_TRUTH.flavor": "\"As it ends, so it shall begin. The hunter tears itself open searching for prey.\"",
+  "DEVOUT-SILENT_TRUTH.title": "[green]Unspeakable Truth[/green]",
+
+  "DEVOUT-DEFECT_TRUTH.description": "Upon pickup, add [blue]1[/blue] [gold]Singularity[/gold] to your Deck. Whenever you play this card, PERMANENTLY apply [blue]{HpLoss:diff()}[/blue] [gold]Doom[/gold] to yourself.",
+  "DEVOUT-DEFECT_TRUTH.flavor": "\"Seeketh not perfection. Eventually, all things shall converge upon the absolute.\"",
+  "DEVOUT-DEFECT_TRUTH.title": "[blue]Unspeakable Truth[/blue]",
+
+  "DEVOUT-REGENT_TRUTH.description": "Upon pickup, add [blue]1[/blue] [gold]Abyss[/gold] to your Deck. Whenever you play this card, PERMANENTLY apply [blue]{HpLoss:diff()}[/blue] [gold]Doom[/gold] to yourself.",
+  "DEVOUT-REGENT_TRUTH.flavor": "\"Thou proclaim thineself king? Thou canst hold not dominion over the soul.\"",
+  "DEVOUT-REGENT_TRUTH.title": "[orange]Unspeakable Truth[/orange]",
+
+  "DEVOUT-NECROBINDER_TRUTH.description": "Upon pickup, add [blue]1[/blue] [gold]Gravemind[/gold] to your Deck. Whenever you play this card, PERMANENTLY apply [blue]{HpLoss:diff()}[/blue] [gold]Doom[/gold] to yourself.",
+  "DEVOUT-NECROBINDER_TRUTH.flavor": "\"Vengeance crushes thee. Carry their flames and be reduced to ash.\"",
+  "DEVOUT-NECROBINDER_TRUTH.title": "[purple]Unspeakable Truth[/purple]",
+
+  "DEVOUT-DEVOUT_TRUTH.description": "Upon pickup, add [blue]1[/blue] [gold]Succubus Form[/gold] to your Deck. Whenever you play this card, PERMANENTLY apply [blue]{HpLoss:diff()}[/blue] [gold]Doom[/gold] to yourself.",
+  "DEVOUT-DEVOUT_TRUTH.flavor": "\"Your nature is intractable. Embrace your darkness and coax it to your will.\"",
+  "DEVOUT-DEVOUT_TRUTH.title": "[yellow]Unspeakable Truth[/yellow]",
+
+
+
+
+
+
+  "DEVOUT-WEIGHTED_BELT.description": "Upon pickup, [gold]Enchant[/gold] up to [blue]{Cards}[/blue] {Cards:plural:Attack|Attacks} with [purple]Heavy[/purple] [blue]{Heavy:diff()}[/blue].",
+  "DEVOUT-WEIGHTED_BELT.flavor": "test",
+  "DEVOUT-WEIGHTED_BELT.title": "Weighted Belt"
+}

@@ -1,0 +1,65 @@
+[gd_scene load_steps=5 format=3]
+
+[ext_resource type="Texture2D" path="res://images/ui/combat/energy_star.png" id="1_dxh47"]
+[ext_resource type="FontVariation" path="res://themes/kreon_bold_shared.tres" id="2_jtxg7"]
+[ext_resource type="Script" uid="uid://dtfio45agppyj" path="res://StS2/addons/mega_text/MegaLabel.cs" id="3_86ti2"]
+[ext_resource type="Texture2D" path="res://images/atlases/ui_atlas.sprites/card/card_unplayable_icon.tres" id="4_y8ylg"]
+
+[node name="StarIcon" type="TextureRect"]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -186.0
+offset_top = -189.0
+offset_right = -128.0
+offset_bottom = -131.0
+grow_horizontal = 2
+grow_vertical = 2
+pivot_offset = Vector2(29, 29)
+mouse_filter = 2
+texture = ExtResource("1_dxh47")
+expand_mode = 2
+stretch_mode = 5
+
+[node name="StarLabel" type="Label" parent="."]
+unique_name_in_owner = true
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -14.0
+offset_top = -20.0
+offset_right = 14.0
+offset_bottom = 20.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_colors/font_color = Color(1, 0.964706, 0.886275, 1)
+theme_override_colors/font_shadow_color = Color(0, 0, 0, 0.188235)
+theme_override_colors/font_outline_color = Color(0.1008, 0.3668, 0.42, 1)
+theme_override_constants/shadow_offset_x = 2
+theme_override_constants/shadow_offset_y = 2
+theme_override_constants/outline_size = 12
+theme_override_constants/shadow_outline_size = 12
+theme_override_fonts/font = ExtResource("2_jtxg7")
+theme_override_font_sizes/font_size = 22
+text = "X"
+horizontal_alignment = 1
+vertical_alignment = 1
+script = ExtResource("3_86ti2")
+MinFontSize = 16
+MaxFontSize = 22
+
+[node name="UnplayableStarIcon" type="TextureRect" parent="."]
+unique_name_in_owner = true
+visible = false
+layout_mode = 0
+offset_left = 5.0
+offset_top = 5.0
+offset_right = 53.0
+offset_bottom = 53.0
+texture = ExtResource("4_y8ylg")
+expand_mode = 1

@@ -1,0 +1,16 @@
+{
+  "DEVOUT-DEVOUT.title": "The Devout",
+  "DEVOUT-DEVOUT.titleObject": "The Devout",
+  "DEVOUT-DEVOUT.description": "A horned elfin warrior, wielding a divine blade. Deeply pious, she inflicts endless penance for her failure, and her nature.",
+  "DEVOUT-DEVOUT.possessiveAdjective": "her",
+  "DEVOUT-DEVOUT.pronounObject": "her",
+  "DEVOUT-DEVOUT.pronounPossessive": "hers",
+  "DEVOUT-DEVOUT.pronounSubject": "she",
+  "DEVOUT-DEVOUT.eventDeathPrevention": "[sine][gold]I shall not be cowed! Only The Mother may deign to take my soul![/gold][/sine]",
+  "DEVOUT-DEVOUT.aromaPrinciple": "Rend my flesh, scald my spirit. This penance is naught.",
+  "DEVOUT-DEVOUT.goldMonologue": "[sine]Coinage[/sine]? [sine]Tribute[/sine]? Naught but a triviality under the heat of [sine]The Father's[/sine] blazing gaze.",
+  "DEVOUT-DEVOUT.banter.alive.endTurnPing": "I shall reach you...",
+  "DEVOUT-DEVOUT.banter.dead.endTurnPing": "Foolish... FOOLISH!",
+  "DEVOUT-DEVOUT.cardsModifierDescription": "Devout cards will now appear in rewards and shops.",
+  "DEVOUT-DEVOUT.cardsModifierTitle": "Devout Cards"
+}

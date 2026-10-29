@@ -1,0 +1,14 @@
+{
+  "GHOST_SEED.description": "[gold]Strikes[/gold] and [gold]Prays[/gold] gain [gold]Ethereal[/gold].",
+  "LEAFY_POULTICE.description": "Upon pickup, [gold]Transform[/gold] [blue]1[/blue] of your [gold]Strikes[/gold] and [blue]1[/blue] of your [gold]Prays[/gold] and lose [blue]{MaxHp}[/blue] Max HP.",
+  "LEAFY_POULTICE.eventDescription": "[gold]Transform[/gold] [blue]1[/blue] of your [gold]Strikes[/gold] and [blue]1[/blue] of your [gold]Prays[/gold]. Lose [red]{MaxHp}[/red] Max HP.",
+  "NEOWS_TALISMAN.description": "Upon pickup, [gold]Upgrade[/gold] [blue]1[/blue] of your [gold]Strikes[/gold] and [blue]1[/blue] of your [gold]Prays[/gold].",
+  "NEOWS_TALISMAN.eventDescription": "[gold]Upgrade[/gold] [blue]1[/blue] of your [gold]Strikes[/gold] and [blue]1[/blue] of your [gold]Prays[/gold].",
+  "PAELS_CLAW.description": "Upon pickup, [gold]Enchant[/gold] all [gold]Prays[/gold] with [purple]{EnchantmentName}[/purple].",
+  "PAELS_CLAW.eventDescription": "[gold]Enchant[/gold] all [gold]Prays[/gold] with [purple]{EnchantmentName}[/purple].",
+  "PANDORAS_BOX.description": "[gold]Transform[/gold] ALL [gold]Strikes[/gold] and [gold]Prays[/gold].",
+  "STONE_HUMIDIFIER.description": "Whenever you [gold]Gaze[/gold] at a [gold]Rest Site[/gold], raise your Max HP by [blue]{MaxHp}[/blue].",
+  "STONE_HUMIDIFIER.additionalRestSiteGazeText": "Raise your Max HP by {MaxHp}.",
+  "REGAL_PILLOW.description": "Whenever you [gold]Gaze[/gold] at a [gold]Rest Site[/gold], heal [blue]{Heal}[/blue] HP.",
+  "REGAL_PILLOW.additionalRestSiteGazeText": "Heal {Heal} HP from Regal Pillow."
+}

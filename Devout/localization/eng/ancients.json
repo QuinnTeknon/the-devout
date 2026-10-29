@@ -1,0 +1,36 @@
+{
+  "THE_ARCHITECT.talk.DEVOUT-DEVOUT.0-0r.ancient": "Hm...? A strange face enters the stage.",
+  "THE_ARCHITECT.talk.DEVOUT-DEVOUT.0-1r.ancient": "You were to feature not in [sine]this[/sine] grand design.",
+  
+  "THE_ARCHITECT.talk.DEVOUT-DEVOUT.0-0r.next": "Question",
+  "THE_ARCHITECT.talk.DEVOUT-DEVOUT.0-0r.char": "Thou... thou art not [jitter]this![/jitter]",
+  "THE_ARCHITECT.talk.DEVOUT-DEVOUT.0-1r.char": "What is this? Some sorcerous trick?!",
+  
+  "THE_ARCHITECT.talk.DEVOUT-DEVOUT.1-0r.ancient": "Fascinating. One not of this world, nor even of this plane.",
+  "THE_ARCHITECT.talk.DEVOUT-DEVOUT.1-1r.ancient": "And yet, somehow, the Accursed has managed to enthrall you to her will.",
+  "THE_ARCHITECT.talk.DEVOUT-DEVOUT.1-2r.ancient": "What false hopes did she ply you? Escape? Understanding?",
+  
+  "THE_ARCHITECT.talk.DEVOUT-DEVOUT.1-0r.next": "Threaten",
+  "THE_ARCHITECT.talk.DEVOUT-DEVOUT.1-1r.char": "If this is the world beyond, I have passed through the inferno!",
+  "THE_ARCHITECT.talk.DEVOUT-DEVOUT.1-0r.char": "Tell me! Where is he?! [jitter]Bring him back to me![/jitter]",
+  "THE_ARCHITECT.talk.DEVOUT-DEVOUT.1-2r.next": "Continue",
+  
+  "THE_ARCHITECT.talk.DEVOUT-DEVOUT.2-0r.ancient": "I owe you naught. Not an explanation, nor condolences.",
+  "THE_ARCHITECT.talk.DEVOUT-DEVOUT.2-1r.ancient": "Although perhaps I could extend to you my pity.",
+  
+  "THE_ARCHITECT.talk.DEVOUT-DEVOUT.3-0r.ancient": "...",
+  
+  "THE_ARCHITECT.talk.DEVOUT-DEVOUT.4-0r.ancient": "[sine]He[/sine] is not here.",
+  "THE_ARCHITECT.talk.DEVOUT-DEVOUT.4-1r.ancient": "My powers are insufficient to allow for reunion.",
+  "THE_ARCHITECT.talk.DEVOUT-DEVOUT.4-2r.ancient": "And so, we arrive at an empasse.",
+
+  "THE_ARCHITECT.talk.DEVOUT-DEVOUT.2-1r.char": "...",
+
+  "THE_ARCHITECT.talk.DEVOUT-DEVOUT.5-0r.ancient": "Fallen to despair, have we?",
+  "THE_ARCHITECT.talk.DEVOUT-DEVOUT.5-1r.ancient": "Hmph... Unfortunate.",
+  
+  "THE_ARCHITECT.talk.DEVOUT-DEVOUT.6-1r.next": "Continue",
+  "THE_ARCHITECT.talk.DEVOUT-DEVOUT.6-2r.ancient": "Resume your penance, burdened one.",
+
+  "THE_ARCHITECT.talk.DEVOUT-DEVOUT.0-attack": "Until next we meet."
+}

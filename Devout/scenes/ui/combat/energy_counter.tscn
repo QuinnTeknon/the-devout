@@ -1,0 +1,139 @@
+[gd_scene load_steps=7 format=3 uid="uid://b8gpxf0tcbqaq"]
+
+[ext_resource type="Texture2D" uid="uid://d2ggghvhfgyyw" path="res://Devout/images/ui/combat/energy_counters/devout/devout_orb_layer_1.png" id="2_0dd00"]
+[ext_resource type="Texture2D" uid="uid://bauna0d42heea" path="res://Devout/images/ui/combat/energy_counters/devout/devout_orb_layer_2.png" id="3_pref7"]
+[ext_resource type="Texture2D" uid="uid://ca5a8vpp5cfp8" path="res://Devout/images/ui/combat/energy_counters/devout/devout_orb_layer_3.png" id="4_0p131"]
+[ext_resource type="Texture2D" uid="uid://cnb2bcvqkew16" path="res://Devout/images/ui/combat/energy_counters/devout/devout_orb_layer_4.png" id="5_unf8v"]
+[ext_resource type="Texture2D" uid="uid://b2tcrt57auc6m" path="res://Devout/images/ui/combat/energy_counters/devout/devout_orb_layer_5.png" id="6_fbpwn"]
+[ext_resource type="Texture2D" uid="uid://bjill7rxtp1cb" path="res://Devout/images/ui/combat/energy_counters/devout/devout_orb_layer_6.png" id="7_uvdc3"]
+
+[node name="EnergyCounter" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 128.0
+offset_bottom = 128.0
+pivot_offset = Vector2(64, 64)
+metadata/_edit_lock_ = true
+
+[node name="EnergyVfxBack" type="Node2D" parent="."]
+unique_name_in_owner = true
+position = Vector2(64, 64)
+
+[node name="Layers" type="Control" parent="."]
+unique_name_in_owner = true
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+
+[node name="Back" type="TextureRect" parent="Layers"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("2_0dd00")
+expand_mode = 1
+stretch_mode = 4
+
+[node name="RotationLayers" type="Control" parent="Layers"]
+unique_name_in_owner = true
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+scale = Vector2(1.5, 1.5)
+pivot_offset = Vector2(64, 80)
+mouse_filter = 2
+
+[node name="3" type="TextureRect" parent="Layers/RotationLayers"]
+modulate = Color(1, 1, 1, 0.78431374)
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = -8.0
+offset_bottom = -8.0
+grow_horizontal = 2
+grow_vertical = 2
+scale = Vector2(1.5, 1.5)
+pivot_offset = Vector2(64, 80)
+texture = ExtResource("3_pref7")
+expand_mode = 1
+stretch_mode = 4
+
+[node name="2" type="TextureRect" parent="Layers/RotationLayers"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+pivot_offset = Vector2(64, 80)
+texture = ExtResource("4_0p131")
+expand_mode = 1
+stretch_mode = 4
+
+[node name="1" type="TextureRect" parent="Layers/RotationLayers"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+pivot_offset = Vector2(64, 80)
+texture = ExtResource("5_unf8v")
+expand_mode = 1
+stretch_mode = 4
+
+[node name="0" type="TextureRect" parent="Layers/RotationLayers"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+pivot_offset = Vector2(64, 80)
+texture = ExtResource("6_fbpwn")
+expand_mode = 1
+stretch_mode = 4
+
+[node name="Front" type="TextureRect" parent="Layers"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("7_uvdc3")
+expand_mode = 1
+stretch_mode = 4
+
+[node name="EnergyVfxFront" type="Node2D" parent="."]
+unique_name_in_owner = true
+position = Vector2(64, 64)
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = 4.0
+offset_bottom = 4.0
+grow_horizontal = 2
+grow_vertical = 2
+pivot_offset = Vector2(64, 64)
+theme_override_constants/shadow_offset_x = 3
+theme_override_constants/shadow_offset_y = 2
+theme_override_constants/outline_size = 16
+theme_override_constants/shadow_outline_size = 16
+theme_override_font_sizes/font_size = 36
+text = "3/3"
+horizontal_alignment = 1
+vertical_alignment = 1

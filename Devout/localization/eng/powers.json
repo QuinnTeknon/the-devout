@@ -1,0 +1,191 @@
+{
+  "DEVOUT-FLAGELLANT_POWER.description": "On [gold]The Devout[/gold]'s turn, losing HP grants [gold]Penance[/gold], and gaining HP grants [gold]Piety[/gold].",
+  "DEVOUT-FLAGELLANT_POWER.smartDescription": "On [gold]{OwnerName}[/gold]'s turn, losing HP grants [gold]Penance[/gold], and gaining HP grants [gold]Piety[/gold].",
+  "DEVOUT-FLAGELLANT_POWER.title": "Flagellant",
+  
+  "DEVOUT-LIFESTEAL_POWER.description": "Heal from another's pain, without increasing your [img]res://Devout/images/packed/sprite_fonts/piety_icon.png[/img].",
+  "DEVOUT-LIFESTEAL_POWER.smartDescription": "Heal from another's pain, without increasing your [img]res://Devout/images/packed/sprite_fonts/piety_icon.png[/img].",
+  "DEVOUT-LIFESTEAL_POWER.title": "Lifesteal",
+  
+  "DEVOUT-ORIGINAL_SIN_POWER.description": "Increase [gold]Flagellant[/gold] by [blue]{Amount}[/blue].\nAt the start of each turn, add [blue]{Amount}[/blue] [gold]Whispering Shade{Amount:plural:|s}[/gold] to your [gold]Hand[/gold].",
+  "DEVOUT-ORIGINAL_SIN_POWER.smartDescription": "Increase [gold]Flagellant[/gold] by [blue]{Amount}[/blue].\nAt the start of each turn, add [blue]{Amount}[/blue] [gold]Whispering Shade{Amount:plural:|s}[/gold] to your [gold]Hand[/gold].",
+  "DEVOUT-ORIGINAL_SIN_POWER.title": "Original Sin",
+  
+  "DEVOUT-SWORD_OF_EDEN_POWER.description": "Whenever [blue]The Devout[/blue] [gold]Unsheathes[/gold], [gold]Angur[/gold] is transformed into [gold]Angurvadal[/gold].\nAt the start of each turn, add [blue]{Amount}[/blue] [gold]{Amount:plural:Burn|Burns}[/gold] to your [gold]Hand[/gold].",
+  "DEVOUT-SWORD_OF_EDEN_POWER.smartDescription": "Whenever [blue]{OwnerName}[/blue] [gold]Unsheathes[/gold], [gold]Angur[/gold] is transformed into [gold]Angurvadal[/gold].\nAt the start of each turn, add [blue]{Amount}[/blue] [gold]{Amount:plural:Burn|Burns}[/gold] to your [gold]Hand[/gold].",
+  "DEVOUT-SWORD_OF_EDEN_POWER.title": "Sword of Eden",
+  
+  "DEVOUT-SOULBOUND_HEART_POWER.description": "Take half damage from [gold]Braidbound[/gold] enemies this turn.",
+  "DEVOUT-SOULBOUND_HEART_POWER.smartDescription": "Take half damage from [gold]Braidbound[/gold] enemies this turn.",
+  "DEVOUT-SOULBOUND_HEART_POWER.title": "Soulbound Heart",
+
+  
+  
+  
+  "DEVOUT-CLIODNA_POWER.description": "[gold]The Devout[/gold]'s apollonian form. While in this stance, she gains [gold]Strength[/gold] that steadily decays.",
+  "DEVOUT-CLIODNA_POWER.smartDescription": "[gold]{OwnerName}[/gold]'s apollonian form. While in this stance, [gold]{OwnerName}[/gold] gains [gold]Strength[/gold] that steadily [red]decays[/red].",
+  "DEVOUT-CLIODNA_POWER.title": "Cliodna",
+
+  "DEVOUT-CAOINEAG_POWER.description": "[gold]The Devout[/gold]'s grieving form. While in this stance, she gains [gold]Thorns[/gold] that steadily decays.",
+  "DEVOUT-CAOINEAG_POWER.smartDescription": "[gold]{OwnerName}[/gold]'s grieving form. While in this stance, [gold]{OwnerName}[/gold] gains [gold]Thorns[/gold] that steadily [red]decay[/red].",
+  "DEVOUT-CAOINEAG_POWER.title": "Caoineag",
+
+  "DEVOUT-SIFREYJA_POWER.description": "[gold]The Devout[/gold]'s valkyrie form. While in this stance, she gains [gold]Thorns[/gold] that steadily decays.",
+  "DEVOUT-SIFREYJA_POWER.smartDescription": "[gold]{OwnerName}[/gold]'s valkyrie form. While in this stance, [gold]{OwnerName}[/gold] is in both [gold]Cliodna[/gold] and [gold]Caoineag[/gold], and inflicts [gold]Charm[/gold], that steadily [red]decays[/red].",
+  "DEVOUT-SIFREYJA_POWER.title": "Sifreyja",
+  
+  
+  
+
+  "DEVOUT-BOAR_GUARD_POWER.description": "This turn, the first time you play Angur, inflict [gold]Vulnerable[/gold]. Thereafter, gain [gold]Strength[/gold].",
+  "DEVOUT-BOAR_GUARD_POWER.smartDescription": "This turn, the first time you play Angur, inflict [blue]{Amount}[/blue] [gold]Vulnerable[/gold]. Thereafter, gain [blue]{Secondary}[/blue] [gold]Strength[/gold].",
+  "DEVOUT-BOAR_GUARD_POWER.title": "Boar's Guard",
+  
+  "DEVOUT-HEIFER_GUARD_POWER.description": "This turn, the first time you play Angur, inflict [gold]Weak[/gold]. Thereafter, inflict [gold]Charmed[/gold].",
+  "DEVOUT-HEIFER_GUARD_POWER.smartDescription": "This turn, the first time you play Angur, inflict [blue]{Amount}[/blue] [gold]Weak[/gold]. Thereafter, apply [blue]{Secondary}[/blue] [gold]Charmed[/gold].",
+  "DEVOUT-HEIFER_GUARD_POWER.title": "Heifer's Guard",
+
+  "DEVOUT-TOWER_GUARD_POWER.description": "This turn, the first time you play Angur, inflict [gold]Frail[/gold]. Thereafter, Angur gains [gold]Heavy[/gold].",
+  "DEVOUT-TOWER_GUARD_POWER.smartDescription": "This turn, the first time you play Angur, inflict [blue]{Amount}[/blue] [gold]Frail[/gold]. Thereafter, Angur gains [blue]{Secondary}[/blue] [gold]Heavy[/gold].",
+  "DEVOUT-TOWER_GUARD_POWER.title": "Tower's Guard",
+
+  "DEVOUT-GATE_GUARD_POWER.description": "",
+  "DEVOUT-GATE_GUARD_POWER.smartDescription": "",
+  "DEVOUT-GATE_GUARD_POWER.title": "Gate's Guard",
+  
+
+
+
+  "DEVOUT-ASCENDING_POWER.description": "Receive [blue]50%[/blue] less damage from Attacks. Take attack damage a number of times to be [gold]Knocked Down[/gold] and suffer [gold]Ringing[/gold].",
+  "DEVOUT-ASCENDING_POWER.smartDescription": "Receive [blue]{DamageDecrease}%[/blue] less damage from Attacks. Take attack damage [blue]{Amount}[/blue] {Amount:plural:time|times} to be [gold]Knocked Down[/gold] and suffer [gold]Ringing[/gold].",
+  "DEVOUT-ASCENDING_POWER.title": "Ascending",
+
+  "DEVOUT-SERAPH_FORM_POWER.description": "At the start of your turn, begin [gold]Ascending[/gold].\nWhen you are [gold]Knocked Down[/gold],\napply [gold]Ringing[/gold] to yourself, and\nenchant a random card in your\n[gold]Hand[/gold] with [purple]Soulflame[/purple].",
+  "DEVOUT-SERAPH_FORM_POWER.smartDescription": "At the start of your turn, begin [gold]Ascending[/gold].\nWhen you are [gold]Knocked Down[/gold],\napply [gold]Ringing[/gold] to yourself, and\nenchant a random card in your\n[gold]Hand[/gold] with [purple]Soulflame[/purple].",
+  "DEVOUT-SERAPH_FORM_POWER.title": "Seraph Form",
+
+  "DEVOUT-SUCCUBUS_FORM_POWER.description": "Whenever you hit, [gold]Charm[/gold] or [gold]Lifesteal[/gold] an enemy, apply [blue]1[/blue] [gold]Braidbound[/gold].\nWhen [gold]Braidbound[/gold] causes a [gold]Stun[/gold],\nheal [blue]13[/blue] HP.",
+  "DEVOUT-SUCCUBUS_FORM_POWER.smartDescription": "Whenever you hit, [gold]Charm[/gold] or [gold]Lifesteal[/gold] an enemy, apply [blue]{Amount}[/blue] [gold]Braidbound[/gold]. When [gold]Braidbound[/gold] causes a [gold]Stun[/gold], heal [blue]{Heal:diff()}[/blue] HP.",
+  "DEVOUT-SUCCUBUS_FORM_POWER.title": "Succubus Form",
+  
+  
+
+
+  "DEVOUT-CHARMED_POWER.description": "Decrease attack damage the enemy deals to you this turn.",
+  "DEVOUT-CHARMED_POWER.smartDescription": "Decrease attack damage this enemy deals to [gold]{Applier}[/gold] this turn.",
+  "DEVOUT-CHARMED_POWER.title": "Charmed",
+
+  "DEVOUT-SCORCHED_POWER.description": "This turn, whenever you play a [purple]Soulflame[/purple], the enemy also loses HP.",
+  "DEVOUT-SCORCHED_POWER.smartDescription": "This turn, whenever [gold]{OwnerName}[/gold] plays a [purple]Soulflame[/purple], the enemy loses HP [blue]{Repeat}[/blue] times.",
+  "DEVOUT-SCORCHED_POWER.title": "Scorched",
+
+  "DEVOUT-BRAIDBOUND_POWER.description": "At the end of a [gold]Braidbound[/gold] creature's turn, it takes [blue]3[/blue] damage. If it passes a tenfold threshold of stacks, it is [gold]Stunned[/gold], all [gold]Braidbound[/gold] is removed, and the damage is doubled.",
+  "DEVOUT-BRAIDBOUND_POWER.smartDescription": "At the end of the {OnPlayer:player|enemy} turn, [gold]{OwnerName}[/gold] takes [blue]{FirstAmount}[/blue] damage. If it passes a tenfold threshold of stacks, it is [gold]Stunned[/gold], all [gold]Braidbound[/gold] is removed, and the damage is doubled.",
+  "DEVOUT-BRAIDBOUND_POWER.title": "Braidbound",
+
+  "DEVOUT-AIRBOURNE_POWER.description": "Deals and receives [blue]50%[/blue] less attack damage, until it lands and takes damage based on its [gold]Height[/gold] at the end of the turn. When hit by an attack, increase [gold]Height[/gold] by [blue]1[/blue].",
+  "DEVOUT-AIRBOURNE_POWER.smartDescription": "Deals and receives [blue]{DamageDecrease}%[/blue] less attack damage, until it lands and takes [blue]{LandingDamage}[/blue] damage at the end of the turn. When hit by an attack, increase [gold]Height[/gold] by [blue]1[/blue].",
+  "DEVOUT-AIRBOURNE_POWER.title": "Airbourne",
+  
+  
+
+  
+  "DEVOUT-MARTYRDOM_POWER.description": "Gain [gold]Flagellant[/gold] until the end of this turn.",
+  "DEVOUT-MARTYRDOM_POWER.smartDescription": "{IsPositive:show:Gain|Lose} [blue]{Amount}[/blue] [gold]Flagellant[/gold] until the end of this turn.",
+  "DEVOUT-MARTYRDOM_POWER.title": "Martyrdom",
+
+  "DEVOUT-HEART_AND_SOUL_POWER.description": "Whenever you enter a [gold]Stance[/gold], increase its [gold]Power[/gold] by [blue]1[/blue].",
+  "DEVOUT-HEART_AND_SOUL_POWER.smartDescription": "Whenever you enter a [gold]Stance[/gold], increase its [gold]Power[/gold] by [blue]{Power}[/blue].",
+  "DEVOUT-HEART_AND_SOUL_POWER.title": "Heart and Soul",
+
+  "DEVOUT-BOILING_BRAID_POWER.description": "Whenever you create, draw or play a [purple]Soulflame[/purple], all [gold]Braidbound[/gold] enemies take its damage.",
+  "DEVOUT-BOILING_BRAID_POWER.smartDescription": "Whenever you create, draw or play a [purple]Soulflame[/purple], all [gold]Braidbound[/gold] enemies take its damage.",
+  "DEVOUT-BOILING_BRAID_POWER.title": "Boiling Braid",
+
+  "DEVOUT-GLAISTIG_POWER.description": "Whenever you play a [gold]Rhythmic[/gold] card, play it again.",
+  "DEVOUT-GLAISTIG_POWER.smartDescription": "Whenever you play a [gold]Rhythmic[/gold] card, play it again.",
+  "DEVOUT-GLAISTIG_POWER.title": "Glaistig",
+
+  "DEVOUT-TITANICUS_POWER.description": "[gold]Strength[/gold] affects your cards additional times.",
+  "DEVOUT-TITANICUS_POWER.smartDescription": "[gold]Strength[/gold] affects your cards [blue]{Amount}[/blue] additional times.",
+  "DEVOUT-TITANICUS_POWER.title": "Titanicus",
+
+  "DEVOUT-GIGANTES_POWER.description": "On the turns you [gold]Unsheathe[/gold] Angur, you receive [blue]50%[/blue] less damage from enemies.",
+  "DEVOUT-GIGANTES_POWER.smartDescription": "On the turns you [gold]Unsheathe[/gold] Angur, you deal [blue]{DamageCalculation}%[/blue] more and receive [blue]{DamageCalculation}%[/blue] less damage from enemies.",
+  "DEVOUT-GIGANTES_POWER.title": "Gigantes",
+
+  "DEVOUT-DUAL_SLASH_POWER.description": "The next time you [gold]Unsheathe[/gold] Angur, it gains [gold]Replay[/gold].",
+  "DEVOUT-DUAL_SLASH_POWER.smartDescription": "The next time you [gold]Unsheathe[/gold] Angur, it gains [gold]Replay[/gold] {Amount}.",
+  "DEVOUT-DUAL_SLASH_POWER.title": "Dualslash",
+  
+  "DEVOUT-ETERNAL_SOUL_POWER.description": "Every [blue]6[/blue] [gold]Piety[/gold] you spend, gain [gold]Energy[/gold].",
+  "DEVOUT-ETERNAL_SOUL_POWER.smartDescription": "Every {Piety:pietyIcons()} you spend, gain {Amount:energyIcons()}.",
+  "DEVOUT-ETERNAL_SOUL_POWER.title": "Eternal Soul",
+
+  "DEVOUT-ANGEL_ENGINE_POWER.description": "At the start of your turn, spend [blue]1[/blue] {singlePietyIcon} to gain {singleEnergyIcon}.",
+  "DEVOUT-ANGEL_ENGINE_POWER.smartDescription": "At the start of your turn, spend [blue]{Amount}[/blue]{singlePietyIcon} to gain {Amount:energyIcons()}.",
+  "DEVOUT-ANGEL_ENGINE_POWER.title": "Angel Engine",
+
+  "DEVOUT-YGGDRASIL_POWER.description": "When you gain {singlePietyIcon},\ndraw {Cards:diff()} cards and gain {Energy:energyIcons()}.",
+  "DEVOUT-YGGDRASIL_POWER.smartDescription": "When you gain {singlePietyIcon},\ndraw cards and gain {singleEnergyIcon}.",
+  "DEVOUT-YGGDRASIL_POWER.title": "Yggdrasil",
+  
+  "DEVOUT-SOULFLAME_MAIDEN_POWER.description": "This creature has [gold]Plating[/gold], and loses [gold]Strength[/gold]. At the end of the turn, it loses 1 HP for every 3 [purple]Soulflames[/purple] in the Devout's [gold]Exhaust Pile[/gold].",
+  "DEVOUT-SOULFLAME_MAIDEN_POWER.smartDescription": "This creature has {Amount} [gold]Plating[/gold], and loses {Amount} [gold]Strength[/gold]. At the end of the turn, it loses {Numerator:diff()} HP for every {Denominator:diff()} [purple]Soulflames[/purple] in {Applier}'s [gold]Exhaust Pile[/gold].",
+  "DEVOUT-SOULFLAME_MAIDEN_POWER.title": "Soulflame Maiden",
+
+  "DEVOUT-BRAZEN_BULL_POWER.description": "You have [gold]Plating[/gold].\nWhenever you create, draw or play a [gold]Burn[/gold] or [purple]Soulflame[/purple], ALL enemies take damage equal to your [gold]Plating[/gold].",
+  "DEVOUT-BRAZEN_BULL_POWER.smartDescription": "You have {Amount} [gold]Plating[/gold].\nWhenever you create, draw or play a [gold]Burn[/gold] or [purple]Soulflame[/purple], ALL enemies take damage equal to your [gold]Plating[/gold].",
+  "DEVOUT-BRAZEN_BULL_POWER.title": "Brazen Bull",
+  
+  "DEVOUT-HEARTHLIGHT_POWER.description": "Whenever an upgraded card enters your [gold]Hand[/gold], heal [gold]{Amount}[/gold] HP and gain [gold]{Amount}[/gold] [gold]Strength[/gold] this turn.",
+  "DEVOUT-HEARTHLIGHT_POWER.smartDescription": "Whenever an [gold]Upgraded[/gold] card enters your [gold]Hand[/gold], heal [gold]{Amount}[/gold] HP and gain [gold]{Amount}[/gold] [gold]Strength[/gold] this turn.",
+  "DEVOUT-HEARTHLIGHT_POWER.title": "Hearthlight",
+  
+  "DEVOUT-KINDER_DAYS_POWER.description": "At the start of each turn, play, and then [purple]Snuff[/purple], a random [purple]Soulflame[/purple] card from your [gold]Exhaust Pile[/gold].",
+  "DEVOUT-KINDER_DAYS_POWER.smartDescription": "At the start of each turn, play, and then [purple]Snuff[/purple], a random [purple]Soulflame[/purple] card from your [gold]Exhaust Pile[/gold].",
+  "DEVOUT-KINDER_DAYS_POWER.title": "Kinder Days",
+
+
+  
+
+  "DEVOUT-SCYTHING_DANCE_POWER.description": "Whenever you play a card this turn, deal damage to all enemies.\nIncreases by [blue]1[/blue] for every [blue]5[/blue] [gold]Dexterity[/gold] you have.",
+  "DEVOUT-SCYTHING_DANCE_POWER.smartDescription": "Whenever you play a card this turn, deal [blue]{Amount}[/blue] damage to all enemies.\nIncreases by [blue]1[/blue] for every [blue]5[/blue] [gold]Dexterity[/gold] you have.",
+  "DEVOUT-SCYTHING_DANCE_POWER.title": "Scything Dance",
+
+  "DEVOUT-BINDING_DANCE_POWER.description": "Whenever you play a card this turn, apply [gold]Braidbound[/gold].\nIncreases by [blue]1[/blue] for every [blue]5[/blue] [gold]Dexterity[/gold] you have.",
+  "DEVOUT-BINDING_DANCE_POWER.smartDescription": "Whenever you play a card this turn, apply [blue]{Amount}[/blue] [gold]Braidbound[/gold].\nIncreases by [blue]1[/blue] for every [blue]5[/blue] [gold]Dexterity[/gold] you have.",
+  "DEVOUT-BINDING_DANCE_POWER.title": "Binding Dance",
+
+  "DEVOUT-DANCE_OF_DEATH_POWER.description": "Whenever you play a card this turn, apply [gold]Braidbound[/gold].\nIncreases by [blue]1[/blue] for every [blue]5[/blue] [gold]Dexterity[/gold] you have.",
+  "DEVOUT-DANCE_OF_DEATH_POWER.smartDescription": "Whenever you play a card this turn, apply When you play a card, gain [blue]{Amount}[/blue] [gold]Strength[/gold] and [gold]Dexterity[/gold] this turn.\nIncreases by [blue]1[/blue] for every [blue]5[/blue] [gold]Dexterity[/gold] you have.",
+  "DEVOUT-DANCE_OF_DEATH_POWER.title": "Dance of Death",
+
+  "DEVOUT-HAUNTING_MELODY_POWER.description": "Whenever you play a card this turn, gain [gold]Block[/gold].\nIncreases by [blue]1[/blue] for every [blue]5[/blue] [gold]Dexterity[/gold] you have.",
+  "DEVOUT-HAUNTING_MELODY_POWER.smartDescription": "Whenever you play a card this turn, gain [blue]{Amount}[/blue] [gold]Block[/gold].\nIncreases by [blue]1[/blue] for every [blue]5[/blue] [gold]Dexterity[/gold] you have.",
+  "DEVOUT-HAUNTING_MELODY_POWER.title": "Haunting Melody",
+
+  "DEVOUT-DIRGING_SONG_POWER.description": "Whenever you play a card this turn, ALL enemies are [gold]Charmed[/gold].\nIncreases by [blue]1[/blue] for every [blue]5[/blue] [gold]Dexterity[/gold] you have.",
+  "DEVOUT-DIRGING_SONG_POWER.smartDescription": "Whenever you play a card this turn, ALL enemies are [gold]Charmed[/gold] [blue]{Amount}[/blue].\nIncreases by [blue]1[/blue] for every [blue]5[/blue] [gold]Dexterity[/gold] you have.",
+  "DEVOUT-DIRGING_SONG_POWER.title": "Dirging Song",
+
+  "DEVOUT-MILK_OF_CREATION_POWER.description": "Whenever you play a card this turn, heal HP. If that card is enchanted with [purple]Soulflame[/purple], it does not damage you.",
+  "DEVOUT-MILK_OF_CREATION_POWER.smartDescription": "Whenever you play a card this turn, heal [blue]{Amount}[/blue] HP. If that card is enchanted with [purple]Soulflame[/purple], it does not damage you.",
+  "DEVOUT-MILK_OF_CREATION_POWER.title": "Milk of Creation",
+  
+  "DEVOUT-VEIL_OF_SHADOWS_POWER.description": "Until the start of your next turn, whenever you are hit, heal [blue]1[/blue] HP for every [blue]5[/blue] [gold]Thorns[/gold] you have.",
+  "DEVOUT-VEIL_OF_SHADOWS_POWER.smartDescription": "Until the start of your next turn, whenever you are hit, heal [blue]1[/blue] HP for every [blue]5[/blue] [gold]Thorns[/gold] you have.",
+  "DEVOUT-VEIL_OF_SHADOWS_POWER.title": "Veil of Shadows",
+
+  "DEVOUT-VEIL_OF_SONG_POWER.description": "Until the start of your next turn, whenever you are attacked, increase [gold]Caoineag[/gold]'s [gold]Thorns[/gold].",
+  "DEVOUT-VEIL_OF_SONG_POWER.smartDescription": "Until the start of your next turn, whenever you are attacked, increase [gold]Caoineag[/gold]'s [gold]Thorns[/gold] by [blue]{Amount}[/blue].",
+  "DEVOUT-VEIL_OF_SONG_POWER.title": "Veil of Song",
+
+  "DEVOUT-VEIL_OF_SCREAMS_POWER.description": "Until the start of your next turn, whenever you are hit, the attacker is [gold]Charmed[/gold].",
+  "DEVOUT-VEIL_OF_SCREAMS_POWER.smartDescription": "Until the start of your next turn, whenever you are hit, the attacker is [gold]Charmed[/gold] [blue]1[/blue].",
+  "DEVOUT-VEIL_OF_SCREAMS_POWER.title": "Veil of Screams",
+  
+  "DEVOUT-THORNS_OF_AGONY_POWER.description": "Until the start of your next turn, whenever you are hit, you deal [blue]1[/blue] damage for every [blue]5[/blue] [gold]Braidbound[/gold] on the attacker.",
+  "DEVOUT-THORNS_OF_AGONY_POWER.smartDescription": "Until the start of your next turn, whenever you are hit, you deal [blue]1[/blue] damage for every [blue]5[/blue] [gold]Braidbound[/gold] on the attacker.",
+  "DEVOUT-THORNS_OF_AGONY_POWER.title": "Thorns of Agony"
+}
